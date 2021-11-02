@@ -1,0 +1,39 @@
+{
+  "topic": [
+    "HTML",
+    [
+       "CSS",
+       "Bootstrap"
+    ],
+    [
+      "JavaScript",
+      "Jquery",
+      "Angular.js",
+      "React.js",
+      "Vue.js",
+      "Next.js"
+    ],
+    [
+       "Python",
+       "Flask",
+       "Django"
+    ],
+    [
+       "Nodejs",
+       "Express.js"
+    ],
+    [
+        "PHP",
+        "Laravel",
+        "Codeigniter"
+    ],
+    [
+       "Ruby",
+       "Ruby on Rails"
+    ],
+
+     "SQL",
+     "MongoDb"
+
+  ]
+}

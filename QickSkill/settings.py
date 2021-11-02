@@ -38,6 +38,8 @@ INSTALLED_APPS = [
 
     # local
     'users.apps.UsersConfig',
+    'scraper.apps.ScraperConfig',
+    'course.apps.CourseConfig',
 ]
 
 MIDDLEWARE = [
