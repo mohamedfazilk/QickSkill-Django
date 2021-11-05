@@ -1,6 +1,5 @@
 from django.contrib import admin
 
+from course.models import Skill
 
-from course.models import skills
-
-admin.site.register(skills)
+admin.site.register(Skill)
